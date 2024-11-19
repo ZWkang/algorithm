@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm
 把每次，都当做最后来对待
 
 预计题量在 100 题左右。
@@ -17,13 +17,7 @@
 
 > https://github.com/azl397985856/leetcode 按这个大哥的顺序规划
 
-## 动态规划
-- [d](./DP/d.ts)
-
-## 链表
-- [a](./Linked/a.ts)
-
-
+{{ contentSlot }}
 
 ## LICENSE
 
